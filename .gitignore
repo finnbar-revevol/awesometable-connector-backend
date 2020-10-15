@@ -1,0 +1,7 @@
+#IntelliJ
+.idea
+*.iml
+#Local build
+target/
+#Local configration (for dev)
+local-config/
